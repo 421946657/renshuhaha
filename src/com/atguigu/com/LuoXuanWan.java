@@ -8,6 +8,8 @@ public class LuoXuanWan {
 		System.out.println("3333");
 		System.out.println("4444");
 		System.out.println("555555");
+		System.out.println("aaaaaa");
+		System.out.println("bbbbbbb");
 
 	}
 
