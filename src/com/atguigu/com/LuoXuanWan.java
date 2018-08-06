@@ -7,6 +7,7 @@ public class LuoXuanWan {
 		System.out.println("222222");
 		System.out.println("3333");
 		System.out.println("4444");
+		System.out.println("555555");
 
 	}
 
